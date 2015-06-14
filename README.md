@@ -6,20 +6,7 @@
 /____/\__/\__,_/\__/____/
 ```
 
-Compute min, max, average and standard deviation on key value stores (example given
-below):
-
-```txt
-<query-number>  <associated-number>
-<query-number>  <associated-number>
-<query-number>  <associated-number>
-<query-number>  <associated-number>
-<query-number>  <associated-number>
-<query-number>  <associated-number>
-<query-number>  <associated-number>
-<query-number>  <associated-number>
-<query-number>  <associated-number>
-```
+Compute min, max, average and standard deviation for a given list.
 
 Install
 -------
@@ -30,8 +17,13 @@ Usage
 ------
 
 ```
-USAGE: stats <query> <filename>
+USAGE: stats <filename>
 ```
+
+Demo
+----
+
+![stats.gif](stats.gif)
 
 License
 -------
